@@ -1,5 +1,5 @@
 # Fuzzers
-List of opensource/public fuzzers.
+This page is ment to be a list of opensource/public fuzzers.
 
 ###afl-fuzz
 
