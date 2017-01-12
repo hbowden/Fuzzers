@@ -42,3 +42,9 @@ http://lcamtuf.blogspot.com/2011/01/announcing-crossfuzz-potential-0-day-in.html
 Genetic general purpose fuzzer
 
 https://github.com/Secure-Labs/nextgen
+
+###Melkor
+
+ELF file format fuzzer
+
+https://github.com/IOActive/Melkor_ELF_Fuzzer
